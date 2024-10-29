@@ -21,8 +21,7 @@ export const About = () => {
               rel="noopener noreferrer"
               className="py-2.5 px-5 w-56 flex flex-col md:flex-row text-lg font-bold border-2
               border-solid border-orange-500 rounded-md
-               cursor-pointer hover:text-[#fff] hover:bg-[#333333]
-              resume_download"
+               cursor-pointer hover:text-[#fff] hover:bg-[#333333]"
             >
               Download Resume
             </a>

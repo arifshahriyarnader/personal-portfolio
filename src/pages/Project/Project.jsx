@@ -8,11 +8,10 @@ export const Project = () => {
       border-custom-[#F0F0F0] rounded-lg"
       >
         <h1 className="text-[#000000] text-3xl font-bold">My Projects:</h1>
-        <div className="grid grid-cols-1 md:grid-cols-3 pt-7 pb-7 gap-5 project_container">
+        <div className="grid grid-cols-1 md:grid-cols-3 pt-7 pb-7 gap-5">
           <div
             className="bg-[#fff] p-5 text-center border-solid
-             border-1 border-custom-[#ccc] rounded-lg project"
-          >
+             border-1 border-custom-[#ccc] rounded-lg project">
             <h3 className="p-4 text-[#F25836] font-bold">
               Booking Reservation App
             </h3>
