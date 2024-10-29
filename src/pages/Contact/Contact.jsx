@@ -1,6 +1,6 @@
 import React from "react";
 
-const Contact = () => {
+export const Contact = () => {
   return (
     <div className="mx-20 my-20 p-12">
       <div>
@@ -74,4 +74,3 @@ const Contact = () => {
   );
 };
 
-export default Contact;

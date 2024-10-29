@@ -1,8 +1,7 @@
 import React from "react";
-import HeroImage from "../assets/images/suit-nader.png";
-import Resume from '../assets/files/ArifShahriyarNaderResume.pdf';
-
-const About = () => {
+import HeroImage from "../../components/assets/images/suit-nader.png";
+import Resume from '../../components/assets/files/ArifShahriyarNaderResume.pdf';
+export const About = () => {
   return (
     <div>
       <div className="flex self-center justify-between flex-col p-24 md:flex-row">
@@ -37,4 +36,3 @@ const About = () => {
   );
 };
 
-export default About;
